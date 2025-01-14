@@ -1,6 +1,6 @@
 # ExamPortal
 ## It is an Online Exam Application. 
-- It is Frontend Part, for Backend Part see url: https://github.com/swapnilbamble1438/ExamPortal
+- It is Frontend Part, for Backend Part see url: https://github.com/TDatpham/OnlineTest_Backend
 
 
 ### Software And Tools Used:
